@@ -1,0 +1,210 @@
+{
+  "province_name": "เชียงใหม่",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141156,
+    "1.2": 116389,
+    "2.1": 147288,
+    "2.2": 116389,
+    "2.3": 30899,
+    "3.1": 110721,
+    "3.2": 8,
+    "3.3": 5660,
+    "3.4": 116389,
+    "4.1": 106179,
+    "4.2": 3774,
+    "4.3": 6436
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายภัทรพงษ์ ลีลาภัทร์",
+      "party": "ประชาชน",
+      "votes": 57851
+    },
+    {
+      "number": 1,
+      "name": "นายณัฏฐ์พัฒน์ รัฐไผท",
+      "party": "เพื่อไทย",
+      "votes": 28146
+    },
+    {
+      "number": 3,
+      "name": "นายสุริยนต์ ปันทะนะ",
+      "party": "ภูมิใจไทย",
+      "votes": 5542
+    },
+    {
+      "number": 8,
+      "name": "นางสาวกุสุมา บัวพันธ์",
+      "party": "กล้าธรรม",
+      "votes": 3815
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณาญาณนันท์ สุริยา",
+      "party": "โอกาสใหม่",
+      "votes": 3352
+    },
+    {
+      "number": 7,
+      "name": "นายพิชิต ผ่องเกษร",
+      "party": "เศรษฐกิจ",
+      "votes": 1935
+    },
+    {
+      "number": 2,
+      "name": "นายสุรพล เกียรติไชยากร",
+      "party": "พลังประชารัฐ",
+      "votes": 1868
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวัฒน์ เชื้อสกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 1674
+    },
+    {
+      "number": 9,
+      "name": "นายภูสวัสดิ์ สุขเลี้ยง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1065
+    },
+    {
+      "number": 6,
+      "name": "นายภัทรพนธ์ ชาชุมพร",
+      "party": "วิชชั่นใหม่",
+      "votes": 659
+    },
+    {
+      "number": 10,
+      "name": "นายพงศ์พัศ กันทา",
+      "party": "ประชากรไทย",
+      "votes": 149
+    },
+    {
+      "number": 12,
+      "name": "นายศานต์ภิสิทธิ์ ปัญญาทิพย์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 123
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/14. เชียงใหม่ เขต 8.json",
+  "_validation": {
+    "vote_sum": 106179,
+    "good_votes": 106179,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "50",
+  "province_name_normalized": "เชียงใหม่",
+  "summary": {
+    "eligible_voters": 141156,
+    "voters_came": 116389,
+    "ballots_received": 147288,
+    "ballots_used": 116389,
+    "good_votes": 106179,
+    "invalid_votes": 3774,
+    "no_votes": 6436
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายภัทรพงษ์ ลีลาภัทร์",
+      "party": "ประชาชน",
+      "votes": 57851,
+      "candidate_uuid": "b2d753e4-f28c-456c-9028-6c3259d6fed2",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายณัฏฐ์พัฒน์ รัฐไผท",
+      "party": "เพื่อไทย",
+      "votes": 28146,
+      "candidate_uuid": "20e849eb-30f4-40fd-ba78-0656dd5178c1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุริยนต์ ปันทะนะ",
+      "party": "ภูมิใจไทย",
+      "votes": 5542,
+      "candidate_uuid": "d838c5db-47ff-4cf7-a600-b201a27cf535",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวกุสุมา บัวพันธ์",
+      "party": "กล้าธรรม",
+      "votes": 3815,
+      "candidate_uuid": "d7762091-fe85-4765-8810-549e92c236dc",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณาญาณนันท์ สุริยา",
+      "party": "โอกาสใหม่",
+      "votes": 3352,
+      "candidate_uuid": "fbb8f2da-ce61-488a-bbbc-90f101c32553",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพิชิต ผ่องเกษร",
+      "party": "เศรษฐกิจ",
+      "votes": 1935,
+      "candidate_uuid": "ae55f8e3-33f9-417b-b31b-ea17fabac13e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวัฒน์ เชื้อสกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 1674,
+      "candidate_uuid": "19dab685-076f-41d8-90fc-3dc97fb406de",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายภูสวัสดิ์ สุขเลี้ยง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1065,
+      "candidate_uuid": "e34dd48d-5f31-48df-a4ec-c2b3cc050ce7",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภัทรพนธ์ ชาชุมพร",
+      "party": "วิชชั่นใหม่",
+      "votes": 659,
+      "candidate_uuid": "39a583a6-3209-4b95-89c9-e12d61348cad",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายพงศ์พัศ กันทา",
+      "party": "ประชากรไทย",
+      "votes": 149,
+      "candidate_uuid": "4d515949-092b-4bfd-bd64-43da6bbf1eba",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายศานต์ภิสิทธิ์ ปัญญาทิพย์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 123,
+      "candidate_uuid": "cdb88cbf-008b-4f3d-83e3-6b63f96c4454",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": [
+    {
+      "number": 2,
+      "name": "นายสุรพล เกียรติไชยากร",
+      "party": "พลังประชารัฐ",
+      "votes": 1868,
+      "candidate_uuid": null,
+      "is_active": null
+    }
+  ]
+}

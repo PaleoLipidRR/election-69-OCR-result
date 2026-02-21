@@ -1,0 +1,153 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133124,
+    "1.2": 89354,
+    "2.1": 134948,
+    "2.2": 89354,
+    "2.3": 45594,
+    "3.1": 79293,
+    "3.2": 12,
+    "3.3": 10049,
+    "3.4": 89354,
+    "4.1": 84175,
+    "4.2": 3106,
+    "4.3": 2073
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายบรรจบ ไชยสาร",
+      "party": "ประชาชน",
+      "votes": 12268
+    },
+    {
+      "number": 2,
+      "name": "นายอาสพลธ์ สรรณ์ไตรภพ",
+      "party": "ภูมิใจไทย",
+      "votes": 59873
+    },
+    {
+      "number": 3,
+      "name": "บุญเทวี",
+      "party": "เศรษฐกิจ",
+      "votes": 503
+    },
+    {
+      "number": 4,
+      "name": "นายมานพ จรัสดำรงนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 10201
+    },
+    {
+      "number": 5,
+      "name": "นายณชญาดา ศรีหาภาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 334
+    },
+    {
+      "number": 6,
+      "name": "นายเอกทรัพย์ มะโนรัตน์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 146
+    },
+    {
+      "number": 7,
+      "name": "นางกัญญ์พิดา เพียรกสิโภคิน",
+      "party": "ปวงชนไทย",
+      "votes": 435
+    },
+    {
+      "number": 8,
+      "name": "นายองอาจ ศรีขาล",
+      "party": "กล้าธรรม",
+      "votes": 415
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 8.json",
+  "_validation": {
+    "vote_sum": 84175,
+    "good_votes": 84175,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 133124,
+    "voters_came": 89354,
+    "ballots_received": 134948,
+    "ballots_used": 89354,
+    "good_votes": 84175,
+    "invalid_votes": 3106,
+    "no_votes": 2073
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายบรรจบ ไชยสาร",
+      "party": "ประชาชน",
+      "votes": 12268,
+      "candidate_uuid": "acbaff20-befa-45ad-8b84-b2b74bf9cf08",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอาสพลธ์ สรรณ์ไตรภพ",
+      "party": "ภูมิใจไทย",
+      "votes": 59873,
+      "candidate_uuid": "a8988b6d-72d7-48fb-8379-c443488df17d",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "บุญเทวี",
+      "party": "เศรษฐกิจ",
+      "votes": 503,
+      "candidate_uuid": "6cfb631c-ecb7-40e4-be16-7d5b34cb42f5",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายมานพ จรัสดำรงนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 10201,
+      "candidate_uuid": "c5e5a6d6-25e9-400d-ac2e-371c3217037d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณชญาดา ศรีหาภาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 334,
+      "candidate_uuid": "0b4b4758-d701-4c4e-8bc1-0fa5b9eb9a7e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเอกทรัพย์ มะโนรัตน์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 146,
+      "candidate_uuid": "7a7a7013-d1ae-40c3-ac65-0438fd83825e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางกัญญ์พิดา เพียรกสิโภคิน",
+      "party": "ปวงชนไทย",
+      "votes": 435,
+      "candidate_uuid": "d6aadb4e-edf4-4f65-b24a-b1ff43e12eb8",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายองอาจ ศรีขาล",
+      "party": "กล้าธรรม",
+      "votes": 415,
+      "candidate_uuid": "e5bfd634-fdca-4bd4-afce-90e1cd4b87af",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}
