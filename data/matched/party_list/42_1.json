@@ -60,7 +60,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 28641
+      "votes": 24641
     },
     {
       "number": 10,
@@ -316,7 +316,7 @@
     "voters_came": 93879,
     "ballots_received": 124100,
     "ballots_used": 93879,
-    "good_votes": 86344,
+    "good_votes": 82344,
     "invalid_votes": 4372,
     "no_votes": 3164
   },
@@ -380,7 +380,7 @@
     {
       "number": 9,
       "party": "เพื่อไทย",
-      "votes": 28641,
+      "votes": 24641,
       "party_uuid": "2d8a1c84-0bc8-4377-965d-c020a0097c27",
       "party_code": "9"
     },

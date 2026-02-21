@@ -200,7 +200,7 @@
     {
       "number": 37,
       "party": "ภูมิใจไทย",
-      "votes": 16555
+      "votes": 15554
     },
     {
       "number": 38,
@@ -316,7 +316,7 @@
     "voters_came": 96161,
     "ballots_received": 135580,
     "ballots_used": 96161,
-    "good_votes": 89020,
+    "good_votes": 88019,
     "invalid_votes": 3791,
     "no_votes": 3349
   },
@@ -576,7 +576,7 @@
     {
       "number": 37,
       "party": "ภูมิใจไทย",
-      "votes": 16555,
+      "votes": 15554,
       "party_uuid": "013c219e-e197-416d-84ea-00ba9c35465e",
       "party_code": "37"
     },

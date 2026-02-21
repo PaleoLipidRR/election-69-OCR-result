@@ -27,7 +27,7 @@
       "number": 5,
       "name": "นายอนัส มณีพฤกษ์",
       "party": "ประชาชน",
-      "votes": 18680
+      "votes": 14680
     },
     {
       "number": 3,
@@ -61,7 +61,7 @@
     "voters_came": 68159,
     "ballots_received": 92602,
     "ballots_used": 68159,
-    "good_votes": 61134,
+    "good_votes": 57134,
     "invalid_votes": 3932,
     "no_votes": 3093
   },
@@ -78,7 +78,7 @@
       "number": 5,
       "name": "นายอนัส มณีพฤกษ์",
       "party": "ประชาชน",
-      "votes": 18680,
+      "votes": 14680,
       "candidate_uuid": "3934b216-5b86-4123-9084-2a3035a1a825",
       "is_active": true
     },

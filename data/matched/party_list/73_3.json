@@ -305,7 +305,7 @@
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/19. นครปฐม เขต 3.json",
   "_validation": {
-    "vote_sum": 78066,
+    "vote_sum": 82640,
     "good_votes": 82640,
     "sum_diff_pct": 5.53
   },
@@ -443,9 +443,16 @@
     {
       "number": 18,
       "party": "พลังสังคมใหม่",
-      "votes": 32,
+      "votes": 35,
       "party_uuid": "43053588-eac7-4f7a-9dcd-dba51eeceaed",
       "party_code": "18"
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 26,
+      "party_uuid": "b376f463-00b4-4a94-886c-fdbc533100e9",
+      "party_code": "19"
     },
     {
       "number": 20,
@@ -707,11 +714,11 @@
       "party_code": "56"
     },
     {
-      "number": 19,
-      "party": "สังคมประชาธิปไตยไทย",
-      "votes": 26,
-      "party_uuid": "b376f463-00b4-4a94-886c-fdbc533100e9",
-      "party_code": "19"
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 35,
+      "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
+      "party_code": "57"
     }
   ],
   "unmatched_parties": [

@@ -316,7 +316,7 @@
     "voters_came": 0,
     "ballots_received": 123571,
     "ballots_used": 89545,
-    "good_votes": 81284,
+    "good_votes": 81152,
     "invalid_votes": 4915,
     "no_votes": 3346
   },
