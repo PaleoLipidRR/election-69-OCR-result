@@ -19,11 +19,6 @@
   "results": [
     {
       "number": 1,
-      "party": "พรรคที่ 1",
-      "votes": 1010
-    },
-    {
-      "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 1010
     },
@@ -301,11 +296,16 @@
       "number": 56,
       "party": "เพื่อบ้านเมือง",
       "votes": 108
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 99
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/51. ราชบุรี เขต 2.json",
   "_validation": {
-    "vote_sum": 89645,
+    "vote_sum": 89744,
     "good_votes": 89744,
     "sum_diff_pct": 0.1
   },
@@ -712,6 +712,13 @@
       "votes": 108,
       "party_uuid": "7255d2d0-1f49-4fd8-adad-7acfea2d5126",
       "party_code": "56"
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 99,
+      "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
+      "party_code": "57"
     }
   ],
   "unmatched_parties": []

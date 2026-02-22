@@ -19,11 +19,6 @@
   "results": [
     {
       "number": 1,
-      "party": "UNKNOWN",
-      "votes": 19
-    },
-    {
-      "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 19
     },
@@ -131,11 +126,6 @@
       "number": 22,
       "party": "ก้าวอิสระ",
       "votes": 10
-    },
-    {
-      "number": 24,
-      "party": "บ่วงชนไทย",
-      "votes": 15
     },
     {
       "number": 24,
@@ -301,11 +291,16 @@
       "number": 56,
       "party": "เพื่อบ้านเมือง",
       "votes": 12
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 13
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/1. กรุงเทพมหานคร เขต 5.json",
   "_validation": {
-    "vote_sum": 92873,
+    "vote_sum": 92886,
     "good_votes": 92886,
     "sum_diff_pct": 0.0
   },
@@ -712,6 +707,13 @@
       "votes": 54,
       "party_uuid": "339fa187-133c-4766-a6c2-36d1b32cda8f",
       "party_code": "23"
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 13,
+      "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
+      "party_code": "57"
     }
   ],
   "unmatched_parties": []

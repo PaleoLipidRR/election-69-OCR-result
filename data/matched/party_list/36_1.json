@@ -98,11 +98,6 @@
       "votes": 20
     },
     {
-      "number": 19,
-      "party": "(นางสราลี)",
-      "votes": 58
-    },
-    {
       "number": 20,
       "party": "ฟิวชัน",
       "votes": 65
@@ -286,11 +281,21 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 65
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 644
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 53
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/11. ชัยภูมิ เขต 1.json",
   "_validation": {
-    "vote_sum": 80640,
+    "vote_sum": 81337,
     "good_votes": 81337,
     "sum_diff_pct": 0.9
   },
@@ -690,6 +695,20 @@
       "votes": 251,
       "party_uuid": "bce2afcf-33ee-486e-a735-e6db4d3b930f",
       "party_code": "16"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 644,
+      "party_uuid": "c10044e9-2d3c-4481-b323-a9aef1851236",
+      "party_code": "13"
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 53,
+      "party_uuid": "eae55266-b74d-4322-869b-c3e5aa00701f",
+      "party_code": "39"
     }
   ],
   "unmatched_parties": []

@@ -19,11 +19,6 @@
   "results": [
     {
       "number": 1,
-      "party": "",
-      "votes": 399
-    },
-    {
-      "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 399
     },
@@ -301,11 +296,16 @@
       "number": 56,
       "party": "เพื่อบ้านเมือง",
       "votes": 22
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 27
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/43. มหาสารคาม เขต 3.json",
   "_validation": {
-    "vote_sum": 83169,
+    "vote_sum": 83196,
     "good_votes": 83196,
     "sum_diff_pct": 0.0
   },
@@ -712,6 +712,13 @@
       "votes": 22,
       "party_uuid": "7255d2d0-1f49-4fd8-adad-7acfea2d5126",
       "party_code": "56"
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 27,
+      "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
+      "party_code": "57"
     }
   ],
   "unmatched_parties": []

@@ -19,11 +19,6 @@
   "results": [
     {
       "number": 1,
-      "party": "N/A",
-      "votes": 843
-    },
-    {
-      "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 843
     },
@@ -301,11 +296,16 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 73
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 232
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/76. อุทัยธานี เขต 2.json",
   "_validation": {
-    "vote_sum": 77047,
+    "vote_sum": 77279,
     "good_votes": 77279,
     "sum_diff_pct": 0.3
   },
@@ -712,6 +712,13 @@
       "votes": 73,
       "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
       "party_code": "57"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 232,
+      "party_uuid": "6102915f-e8bc-4149-8265-ec74489adf2f",
+      "party_code": "4"
     }
   ],
   "unmatched_parties": []

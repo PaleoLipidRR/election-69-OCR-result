@@ -219,11 +219,6 @@
     },
     {
       "number": 41,
-      "party": "Unknown Party 41",
-      "votes": 24
-    },
-    {
-      "number": 41,
       "party": "แผ่นดินธรรม",
       "votes": 24
     },
@@ -301,11 +296,16 @@
       "number": 56,
       "party": "เพื่อบ้านเมือง",
       "votes": 210
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 33
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/22. นครศรีธรรมราช เขต 5.json",
   "_validation": {
-    "vote_sum": 100918,
+    "vote_sum": 100951,
     "good_votes": 100951,
     "sum_diff_pct": 0.0
   },
@@ -712,6 +712,13 @@
       "votes": 210,
       "party_uuid": "7255d2d0-1f49-4fd8-adad-7acfea2d5126",
       "party_code": "56"
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 33,
+      "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
+      "party_code": "57"
     }
   ],
   "unmatched_parties": []

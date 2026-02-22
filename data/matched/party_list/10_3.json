@@ -19,18 +19,8 @@
   "results": [
     {
       "number": 1,
-      "party": "",
-      "votes": 31
-    },
-    {
-      "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 31
-    },
-    {
-      "number": 3,
-      "party": "",
-      "votes": 149
     },
     {
       "number": 2,
@@ -301,11 +291,21 @@
       "number": 55,
       "party": "ไทยรวมไทย",
       "votes": 8
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 12
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 12
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/1. กรุงเทพมหานคร เขต 3.json",
   "_validation": {
-    "vote_sum": 78851,
+    "vote_sum": 78875,
     "good_votes": 78875,
     "sum_diff_pct": 0.0
   },
@@ -705,6 +705,20 @@
       "votes": 8,
       "party_uuid": "df277b91-9f1d-449c-be32-3f8235ff1f26",
       "party_code": "55"
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 12,
+      "party_uuid": "7255d2d0-1f49-4fd8-adad-7acfea2d5126",
+      "party_code": "56"
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 12,
+      "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
+      "party_code": "57"
     }
   ],
   "unmatched_parties": []
