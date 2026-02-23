@@ -18,11 +18,6 @@
   },
   "results": [
     {
-      "number": 3,
-      "party": "ใหม่",
-      "votes": 297
-    },
-    {
       "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 3264
@@ -31,6 +26,11 @@
       "number": 2,
       "party": "เพื่อชาติไทย",
       "votes": 2075
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 297
     },
     {
       "number": 4,

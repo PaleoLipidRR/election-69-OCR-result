@@ -33,6 +33,11 @@
       "votes": 158
     },
     {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 179
+    },
+    {
       "number": 5,
       "party": "รวมใจไทย",
       "votes": 376
@@ -296,11 +301,6 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 40
-    },
-    {
-      "number": 4,
-      "party": "มิติใหม่",
-      "votes": 179
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/19. นครปฐม เขต 6.json",

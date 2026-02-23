@@ -28,11 +28,6 @@
       "votes": 1343
     },
     {
-      "number": 31,
-      "party": "ประชากรไทย",
-      "votes": 157
-    },
-    {
       "number": 3,
       "party": "ใหม่",
       "votes": 499
@@ -173,9 +168,9 @@
       "votes": 193
     },
     {
-      "number": 57,
-      "party": "พลังไทยรักชาติ",
-      "votes": 65
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 157
     },
     {
       "number": 32,
@@ -301,6 +296,11 @@
       "number": 56,
       "party": "เพื่อบ้านเมือง",
       "votes": 49
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 65
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/54. ลำพูน เขต 1.json",

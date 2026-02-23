@@ -18,11 +18,6 @@
   },
   "results": [
     {
-      "number": 5,
-      "party": "รวมใจไทย",
-      "votes": 554
-    },
-    {
       "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 953
@@ -41,6 +36,11 @@
       "number": 4,
       "party": "มิติใหม่",
       "votes": 469
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 554
     },
     {
       "number": 6,
@@ -78,6 +78,11 @@
       "votes": 906
     },
     {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 644
+    },
+    {
       "number": 14,
       "party": "ท้องที่ไทย",
       "votes": 64
@@ -88,6 +93,11 @@
       "votes": 101
     },
     {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 251
+    },
+    {
       "number": 17,
       "party": "ไทยชนะ",
       "votes": 105
@@ -96,6 +106,11 @@
       "number": 18,
       "party": "พลังสังคมใหม่",
       "votes": 20
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 58
     },
     {
       "number": 20,
@@ -193,6 +208,11 @@
       "votes": 325
     },
     {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 53
+    },
+    {
       "number": 40,
       "party": "ไทยธรรม",
       "votes": 66
@@ -281,16 +301,6 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 65
-    },
-    {
-      "number": 13,
-      "party": "รวมพลังประชาชน",
-      "votes": 644
-    },
-    {
-      "number": 39,
-      "party": "กรีน",
-      "votes": 53
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/11. ชัยภูมิ เขต 1.json",

@@ -108,6 +108,11 @@
       "votes": 40
     },
     {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 36
+    },
+    {
       "number": 20,
       "party": "ฟิวชัน",
       "votes": 56
@@ -296,11 +301,6 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 90
-    },
-    {
-      "number": 19,
-      "party": "สังคมประชาธิปไตยไทย",
-      "votes": 36
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/21. นครราชสีมา เขต 15.json",

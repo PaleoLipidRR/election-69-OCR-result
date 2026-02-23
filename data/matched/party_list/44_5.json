@@ -18,14 +18,14 @@
   },
   "results": [
     {
-      "number": 2,
-      "party": "เพื่อชาติไทย",
-      "votes": 2144
-    },
-    {
       "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 2398
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 2144
     },
     {
       "number": 3,

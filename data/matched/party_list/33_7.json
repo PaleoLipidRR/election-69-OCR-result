@@ -38,6 +38,11 @@
       "votes": 127
     },
     {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 338
+    },
+    {
       "number": 6,
       "party": "รวมไทยสร้างชาติ",
       "votes": 2595
@@ -296,11 +301,6 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 39
-    },
-    {
-      "number": 5,
-      "party": "รวมใจไทย",
-      "votes": 338
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/56. ศรีสะเกษ เขต 7.json",

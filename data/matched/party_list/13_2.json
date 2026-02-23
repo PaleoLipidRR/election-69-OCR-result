@@ -143,11 +143,6 @@
       "votes": 30
     },
     {
-      "number": 29,
-      "party": "ไทยภักดี",
-      "votes": 837
-    },
-    {
       "number": 26,
       "party": "คลองไทย",
       "votes": 75
@@ -161,6 +156,11 @@
       "number": 28,
       "party": "ไทยก้าวหน้า",
       "votes": 114
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 837
     },
     {
       "number": 30,

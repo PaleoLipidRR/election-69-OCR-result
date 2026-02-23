@@ -18,11 +18,6 @@
   },
   "results": [
     {
-      "number": 5,
-      "party": "รวมใจไทย",
-      "votes": 165
-    },
-    {
       "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 1152
@@ -41,6 +36,21 @@
       "number": 4,
       "party": "มิติใหม่",
       "votes": 41
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 165
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1211
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 83
     },
     {
       "number": 8,
@@ -291,16 +301,6 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 35
-    },
-    {
-      "number": 6,
-      "party": "รวมไทยสร้างชาติ",
-      "votes": 1211
-    },
-    {
-      "number": 7,
-      "party": "พลวัต",
-      "votes": 83
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/22. นครศรีธรรมราช เขต 3.json",

@@ -19,11 +19,6 @@
   "results": [
     {
       "number": 1,
-      "party": "Unknown Party",
-      "votes": 0
-    },
-    {
-      "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 697
     },
@@ -123,8 +118,8 @@
       "votes": 49
     },
     {
-      "number": 22,
-      "party": "ไทยรวมพลัง",
+      "number": 21,
+      "party": "ไทรวมพลัง",
       "votes": 60
     },
     {
@@ -138,8 +133,8 @@
       "votes": 89
     },
     {
-      "number": 25,
-      "party": "วินัยไทย",
+      "number": 24,
+      "party": "วิชชั่นใหม่",
       "votes": 206
     },
     {
@@ -238,8 +233,8 @@
       "votes": 251
     },
     {
-      "number": 45,
-      "party": "โอกาสไทย",
+      "number": 44,
+      "party": "โอกาสใหม่",
       "votes": 1015
     },
     {

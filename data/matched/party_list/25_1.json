@@ -19,18 +19,8 @@
   "results": [
     {
       "number": 1,
-      "party": "",
-      "votes": 0
-    },
-    {
-      "number": 1,
       "party": "ไทยทรัพย์ทวี",
       "votes": 2250
-    },
-    {
-      "number": 3,
-      "party": "",
-      "votes": 0
     },
     {
       "number": 2,
@@ -49,7 +39,7 @@
     },
     {
       "number": 5,
-      "party": "พรรครวมใจไทย",
+      "party": "รวมใจไทย",
       "votes": 796
     },
     {
@@ -98,8 +88,8 @@
       "votes": 105
     },
     {
-      "number": 17,
-      "party": "อนาคตใหม่",
+      "number": 15,
+      "party": "อนาคตไทย",
       "votes": 86
     },
     {
@@ -128,8 +118,8 @@
       "votes": 47
     },
     {
-      "number": 23,
-      "party": "ไทยรวมพลัง",
+      "number": 21,
+      "party": "ไทรวมพลัง",
       "votes": 71
     },
     {
@@ -158,8 +148,8 @@
       "votes": 55
     },
     {
-      "number": 29,
-      "party": "ประชาธิปปัตย์",
+      "number": 27,
+      "party": "ประชาธิปัตย์",
       "votes": 4202
     },
     {

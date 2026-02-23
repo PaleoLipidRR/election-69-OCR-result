@@ -28,6 +28,11 @@
       "votes": 1624
     },
     {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 170
+    },
+    {
       "number": 4,
       "party": "มิติใหม่",
       "votes": 127
@@ -36,11 +41,6 @@
       "number": 5,
       "party": "รวมใจไทย",
       "votes": 633
-    },
-    {
-      "number": 5,
-      "party": "ไทยใหม่",
-      "votes": 170
     },
     {
       "number": 6,

@@ -49,7 +49,7 @@
     },
     {
       "number": 7,
-      "party": "พลังชาติ",
+      "party": "พลวัต",
       "votes": 1963
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "number": 24,
-      "party": "วิชชันใหม่",
+      "party": "วิชชั่นใหม่",
       "votes": 65
     },
     {
@@ -365,10 +365,10 @@
     },
     {
       "number": 7,
-      "party": "พลังไทยรักชาติ",
+      "party": "พลวัต",
       "votes": 1963,
-      "party_uuid": "3e7b1adf-ab5f-4206-ba04-6cff9bf02f9c",
-      "party_code": "57"
+      "party_uuid": "bd8d9f14-f757-41fb-8f37-d6128d9d012d",
+      "party_code": "7"
     },
     {
       "number": 8,

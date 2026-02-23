@@ -33,6 +33,11 @@
       "votes": 633
     },
     {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 232
+    },
+    {
       "number": 5,
       "party": "รวมใจไทย",
       "votes": 526
@@ -296,11 +301,6 @@
       "number": 57,
       "party": "พลังไทยรักชาติ",
       "votes": 73
-    },
-    {
-      "number": 4,
-      "party": "มิติใหม่",
-      "votes": 232
     }
   ],
   "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/party_list/76. อุทัยธานี เขต 2.json",
